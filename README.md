@@ -1,2 +1,0 @@
-# javafullstack
-Java Full Stack
